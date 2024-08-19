@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Darryl Matthew Tanadi 👋
+---
+Nice to meet you! I'm currently a student at [Your University], majoring in [Your Major] 🎮 </br>
+You can check and download games I've developed at [my itch.io page](https://your-itchio-link).
+
+*All the GIFs are linked to their respective itch.io page*
+
+
 
 <!--
 **MovingGrass/MovingGrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
