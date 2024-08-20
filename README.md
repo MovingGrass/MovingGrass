@@ -17,7 +17,7 @@ I’m a passionate game development, specializing in game programming. My journe
   <tbody>
     <tr>
       <td><img src="https://your-image-link.gif" alt="Project 1 GIF"/></td>
-      <td><img src="https://your-image-link.gif" alt="Project 2 GIF"/></td>
+      <td><img src="https://github.com/MovingGrass/MovingGrass/blob/main/Lamina%20Lapedi%20GIF.gif?raw=true" alt="Lamina Lapedi GIF"/></td>
     </tr>
     <tr>
       <td valign="text-top">A 3D horror game inspired by Slendrina the Cellar.
