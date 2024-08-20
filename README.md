@@ -10,7 +10,7 @@ I’m a passionate game development, specializing in game programming. My journe
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://your-itchio-link"> Red Baby 🩸👶</a></th>
+      <th width="50%"><a href="https://bebekapi.itch.io/red-baby"> Red Baby 🩸👶</a></th>
       <th width="50%"><a href="https://bgdc.itch.io/game-kelompok-2">Lamina Lapedi 🗡️🛡️ 💀</a></th>
     </tr>
   </thead>
@@ -26,7 +26,7 @@ Players are tasked with collecting 15 crystals while avoiding demonic entities k
 Players can upgrade their skills with unique effects, choosing between weapons. different weapons offer distinct advantages. Battle through dungeons, defeat enemies, and master the art of combat in this thrilling rogue-like adventure.</td>
     </tr>
     <tr>
-      <td><a href="https://your-itchio-link">Itch Page</a></td>
+      <td><a href="https://bebekapi.itch.io/red-baby">Itch Page</a></td>
       <td><a href="https://bgdc.itch.io/game-kelompok-2">Itch Page</a></td>
     </tr>
   </tbody>
