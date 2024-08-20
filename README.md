@@ -43,7 +43,7 @@ Players can upgrade their skills with unique effects, choosing between weapons. 
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://your-image-link.gif" alt="Project 3 GIF"/></td>
+      <td><img src="https://github.com/MovingGrass/MovingGrass/blob/main/Calces%20GIF.gif?raw=true" alt="Calces GIF"/></td>
       <td><img src="https://github.com/MovingGrass/MovingGrass/blob/main/0820%20(3).gif?raw=true" alt="Into the function GIF"/></td>
     </tr>
     <tr>
