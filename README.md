@@ -10,7 +10,7 @@ I’m a passionate game development, specializing in game programming. My journe
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bebekapi.itch.io/red-baby"> Red Baby 🩸👶</a></th>
+      <th width="50%"><a href="https://bebekapi.itch.io/red-baby">Red Baby 🩸👶</a></th>
       <th width="50%"><a href="https://bgdc.itch.io/game-kelompok-2">Lamina Lapedi 🗡️🛡️ 💀</a></th>
     </tr>
   </thead>
@@ -44,7 +44,7 @@ Players can upgrade their skills with unique effects, choosing between weapons. 
   <tbody>
     <tr>
       <td><img src="https://your-image-link.gif" alt="Project 3 GIF"/></td>
-      <td><img src="https://your-image-link.gif" alt="Project 4 GIF"/></td>
+      <td><img src="https://github.com/MovingGrass/MovingGrass/blob/main/0820%20(3).gif?raw=true" alt="Into the function GIF"/></td>
     </tr>
     <tr>
       <td valign="text-top">A gear-themed 2D platformer.
