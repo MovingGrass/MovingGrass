@@ -26,7 +26,7 @@ Players are tasked with collecting 15 crystals while avoiding demonic entities k
 Players can upgrade their skills with unique effects, choosing between weapons. different weapons offer distinct advantages. Battle through dungeons, defeat enemies, and master the art of combat in this thrilling rogue-like adventure.</td>
     </tr>
     <tr>
-      <td><a href="https://bebekapi.itch.io/red-baby">Itch Page</a></td>
+      <td><a href="https://darrylmt.itch.io/red-baby">Itch Page</a></td>
       <td><a href="https://bgdc.itch.io/game-kelompok-2">Itch Page</a></td>
     </tr>
   </tbody>
@@ -55,6 +55,40 @@ Players collect and use coding-themed cards to traverse procedurally generated l
     <tr>
       <td><a href="https://bgdc.itch.io/calces">Itch Page</a></td>
       <td><a href="https://bgdc.itch.io/into-the-function">Itch Page</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <!-- JUDUL GAME KIRI & KANAN -->
+      <th width="50%"><a href="https://darrylmt.itch.io/silent-archive">Silent Archive 🎮</a></th>
+      <th width="50%"><a href="https://tristan-chandra.itch.io/my-little-everything">My Little Everything 🕹️</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- GAMBAR/GIF KIRI & KANAN -->
+      <td><img src="[LINK_GAMBAR_GIF_1]" alt="Game 1 GIF"/></td>
+      <td><img src="[LINK_GAMBAR_GIF_2]" alt="Game 2 GIF"/></td>
+    </tr>
+    <tr>
+      <!-- DESKRIPSI KIRI & KANAN -->
+      <td valign="text-top">
+        A puzzle based escape room game where player needs to search for clue, solve riddles, and escape the room. 
+      </td>
+      <td valign="text-top">
+        A cozy, story-driven adventure about love, loss, and the memories that make us who we are.
+        Solve gentle puzzles, explore a childhood home, and interact with meaningful objects to uncover the heartfelt bond between a mother and her child.
+      </td>
+    </tr>
+    <tr>
+      <!-- LINK BAWAH KIRI & KANAN -->
+      <td><a href="https://darrylmt.itch.io/silent-archive">Itch Page</a></td>
+      <td><a href="https://tristan-chandra.itch.io/my-little-everything">Itch Page</a></td>
     </tr>
   </tbody>
 </table>
