@@ -73,7 +73,7 @@ Players collect and use coding-themed cards to traverse procedurally generated l
     <tr>
       <!-- GAMBAR/GIF KIRI & KANAN -->
       <td><img src="[LINK_GAMBAR_GIF_1]" alt="Game 1 GIF"/></td>
-      <td><img src="[LINK_GAMBAR_GIF_2]" alt="Game 2 GIF"/></td>
+      <td><img src="My little everything gif.gif" alt="Game 2 GIF"/></td>
     </tr>
     <tr>
       <!-- DESKRIPSI KIRI & KANAN -->
