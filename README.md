@@ -102,7 +102,7 @@ Players collect and use coding-themed cards to traverse procedurally generated l
   <tbody>
     <tr>
       <!-- GAMBAR/GIF -->
-      <td><img src="NAMA_FILE_GIF_KAMU.gif" alt="Game GitHub GIF"/></td>
+      <td><img src="Cisini Dressup GIF.gif" alt="Game GitHub GIF"/></td>
     </tr>
     <tr>
       <!-- DESKRIPSI -->
