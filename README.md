@@ -96,8 +96,7 @@ Players collect and use coding-themed cards to traverse procedurally generated l
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-      <td><img src="Cisini Dressup GIF.gif" alt="Game GitHub GIF"/></td>
+      <td align="center"><img src="Cisini Dressup GIF.gif" alt="Game GitHub GIF"/></td>
     </tr>
     <tr>
       <td valign="text-top">
