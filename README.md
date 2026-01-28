@@ -92,6 +92,31 @@ Players collect and use coding-themed cards to traverse procedurally generated l
     </tr>
   </tbody>
 </table>
+<table width="50%">
+  <thead>
+    <tr>
+      <!-- JUDUL GAME GITHUB -->
+      <th width="100%"><a href="LINK_REPO_GITHUB_KAMU">Cisini Dressup 👗✨</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- GAMBAR/GIF -->
+      <td><img src="NAMA_FILE_GIF_KAMU.gif" alt="Game GitHub GIF"/></td>
+    </tr>
+    <tr>
+      <!-- DESKRIPSI -->
+      <td valign="text-top">
+        A minigame of the full game Cisini Stories. This game foxus on dress up and makeup. Player will go on a date with her lover and she must choose the best dress and makeup for their date.
+      </td>
+    </tr>
+    <tr>
+      <!-- LINK GITHUB -->
+      <td><a href="LINK_REPO_GITHUB_KAMU">GitHub Repository</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
