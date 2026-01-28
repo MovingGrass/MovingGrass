@@ -96,7 +96,7 @@ Players collect and use coding-themed cards to traverse procedurally generated l
   <thead>
     <tr>
       <!-- JUDUL GAME GITHUB -->
-      <th width="100%"><a href="LINK_REPO_GITHUB_KAMU">Cisini Dressup 👗✨</a></th>
+      <th width="100%"><a href="https://github.com/InternIkanAsin/InternIkanAsin.github.io">Cisini Dressup 👗✨</a></th>
     </tr>
   </thead>
   <tbody>
@@ -112,7 +112,7 @@ Players collect and use coding-themed cards to traverse procedurally generated l
     </tr>
     <tr>
       <!-- LINK GITHUB -->
-      <td><a href="LINK_REPO_GITHUB_KAMU">GitHub Repository</a></td>
+      <td><a href="https://github.com/InternIkanAsin/InternIkanAsin.github.io">GitHub Repository</a></td>
     </tr>
   </tbody>
 </table>
