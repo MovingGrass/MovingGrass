@@ -64,19 +64,16 @@ Players collect and use coding-themed cards to traverse procedurally generated l
 <table width="100%">
   <thead>
     <tr>
-      <!-- JUDUL GAME KIRI & KANAN -->
       <th width="50%"><a href="https://darrylmt.itch.io/silent-archive">Silent Archive 🎮</a></th>
       <th width="50%"><a href="https://tristan-chandra.itch.io/my-little-everything">My Little Everything 🕹️</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- GAMBAR/GIF KIRI & KANAN -->
       <td><img src="Silent Archive gif.gif" alt="Game 1 GIF"/></td>
       <td><img src="My little everything gif.gif" alt="Game 2 GIF"/></td>
     </tr>
     <tr>
-      <!-- DESKRIPSI KIRI & KANAN -->
       <td valign="text-top">
         A puzzle based escape room game where player needs to search for clue, solve riddles, and escape the room. 
       </td>
@@ -86,7 +83,6 @@ Players collect and use coding-themed cards to traverse procedurally generated l
       </td>
     </tr>
     <tr>
-      <!-- LINK BAWAH KIRI & KANAN -->
       <td><a href="https://darrylmt.itch.io/silent-archive">Itch Page</a></td>
       <td><a href="https://tristan-chandra.itch.io/my-little-everything">Itch Page</a></td>
     </tr>
@@ -95,23 +91,20 @@ Players collect and use coding-themed cards to traverse procedurally generated l
 <table width="50%">
   <thead>
     <tr>
-      <!-- JUDUL GAME GITHUB -->
       <th width="100%"><a href="https://github.com/InternIkanAsin/InternIkanAsin.github.io">Cisini Dressup 👗✨</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- GAMBAR/GIF -->
+      <td align="center">
       <td><img src="Cisini Dressup GIF.gif" alt="Game GitHub GIF"/></td>
     </tr>
     <tr>
-      <!-- DESKRIPSI -->
       <td valign="text-top">
         A minigame of the full game Cisini Stories. This game foxus on dress up and makeup. Player will go on a date with her lover and she must choose the best dress and makeup for their date.
       </td>
     </tr>
     <tr>
-      <!-- LINK GITHUB -->
       <td><a href="https://github.com/InternIkanAsin/InternIkanAsin.github.io">GitHub Repository</a></td>
     </tr>
   </tbody>
